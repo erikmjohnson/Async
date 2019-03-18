@@ -2,7 +2,7 @@
 
 module.exports = exports = {};
 
-exports.readFileSync = (file, cb) => {
+exports.readFile = (file, cb) => {
   if(file.match(/bad/i) ) {
     cb('Invalid File');
   }
