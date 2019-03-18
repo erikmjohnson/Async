@@ -6,7 +6,6 @@ const readFile = (file, callback) => {
 
   let randomNumber = `${Math.round(Math.random() * 100)}`;
 
-
   fs.readFile(file, (err, data) => {
       if(err) {
         callback(err);
