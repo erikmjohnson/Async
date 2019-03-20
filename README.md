@@ -1,6 +1,6 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB 03 Async
 ==============================================
-
+![Build Status](https://travis-ci.com/erikmjohnson/async.svg?branch=master)
 ## LAB 03
 
 Learning about the differences between callbacks and promises. index.js will read a file and push it into an
