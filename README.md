@@ -11,7 +11,7 @@ Erik Johnson
 
 ### Links and Resources
 * [Repo](https://github.com/erikmjohnson/async)
-* 
+* [Travis](https://travis-ci.com/erikmjohnson/async)
 
 
 ## Modules
